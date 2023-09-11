@@ -56,8 +56,8 @@ def save_file(text):
 	fname = f'scraped_articles/{name}.txt'
 	# Code here - write a file using with (2 lines)
     
-    with open(fname, 'w') as fp:
-        fp.write(text)
+	with open(fname, 'w') as fp:
+		fp.write(text)
     
 	# Code ends here
 
