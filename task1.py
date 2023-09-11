@@ -55,10 +55,8 @@ def save_file(text):
 	print(name)
 	fname = f'scraped_articles/{name}.txt'
 	# Code here - write a file using with (2 lines)
-    
 	with open(fname, 'w') as fp:
 		fp.write(text)
-    
 	# Code ends here
 
 	print(f'File saved in directory {fname}')
@@ -66,6 +64,7 @@ def save_file(text):
 
 if __name__ == '__main__':
 	text = collect_text(get_page())
+	text = clean(text)
 	save_file(text)
 	# Instructions to Run this python code
 	# Give url as https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
