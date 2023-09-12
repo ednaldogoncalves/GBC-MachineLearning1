@@ -19,12 +19,12 @@
 **beautifulSoup** - Used in parsing html source response https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 #### Steps to be followed to complete this task
-**1.** Import library
-**2.** Study the library usage in its documentation
-**3.** Fill in the blank provided in the Script (Write your code between Code goes here and Code ends here comments)
-**4.** Run the python script with the given url of medium article
-**5.** By running the script, a new folder called “scraped_articles” would be created in your local machine.
-**6.** Please find the .txt file and upload that as the submission file along with your python file.
+1. Import library
+2. Study the library usage in its documentation
+3. Fill in the blank provided in the Script (Write your code between Code goes here and Code ends here comments)
+4. Run the python script with the given url of medium article
+5. By running the script, a new folder called “scraped_articles” would be created in your local machine.
+6. Please find the .txt file and upload that as the submission file along with your python file.
 
 # Task 2 - Github
 - This task tests your understanding of Github commands and processes in pushing new code into the existing repo.
@@ -39,13 +39,13 @@
 **Github repo** - Your repo that you have created already
 
 #### Steps to be followed to complete this task
-**1.** Open a new jupyter notebook and name it task2.ipynb
-**2.** Replicate the answer you’ve got in Task1 into cells inside the newly created notebook
-**3.** Choose one of your classmate and add him/her as a collaborator in your Repo's settings
-**4.** Create a new branch called "github_task"
-**5.** Commit the .py, .ipynb and .txt files
-**6.** Push these files into the branch
-**7.** Create a Pull Request with a Reviewer you have selected
-**8.** Wait for approval from your reviewer
-**9.** Merge the branch into the master branch
-**10.** Submit the repo link as the submission file
+1. Open a new jupyter notebook and name it task2.ipynb
+2. Replicate the answer you’ve got in Task1 into cells inside the newly created notebook
+3. Choose one of your classmate and add him/her as a collaborator in your Repo's settings
+4. Create a new branch called "github_task"
+5. Commit the .py, .ipynb and .txt files
+6. Push these files into the branch
+7. Create a Pull Request with a Reviewer you have selected
+8. Wait for approval from your reviewer
+9. Merge the branch into the master branch
+10. Submit the repo link as the submission file
