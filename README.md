@@ -35,9 +35,9 @@
 - Output: Github account with these three files pushed, reviewed and merged into the master branch of your repo
 
 ### You require the following to accomplish that.
-- **python script** - Task 1 answer (.py)
-- **Text file** - Task 1 text file (.txt)
-- **Notebook** - Replicated answer in a notebook file (.ipynb)
+- **python script** - Task 1 answer (task1.py)
+- **Text file** - Task 1 text file (papa-what-is-a-neural-network-c5e5cc427c7.txt)
+- **Notebook** - Replicated answer in a notebook file (task2.ipynb)
 - **Github repo** - Your repo that you have created already
 
 ### Steps to be followed to complete this task
