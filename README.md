@@ -5,6 +5,8 @@
   
 ![](https://www.georgebrown.ca/themes/custom/de_theme/logo.svg)
 
+------------
+
 # Task 1 - Python Web Scraping
 
 - This task tests your understanding of Python language in applying it to a specific well-defined task of web scraping.
@@ -13,12 +15,12 @@
 - Output: File stored in your local machine with the text from the url
 - Submission files: .txt and .py file
 
-#### You require the following libraries to accomplish that.
-**os** - File storing in the local directory of your machine
-**requests** - Used for sending requests with url as input and get html source as response
-**beautifulSoup** - Used in parsing html source response https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+### You require the following libraries to accomplish that.
+- **os** - File storing in the local directory of your machine
+- **requests** - Used for sending requests with url as input and get html source as response
+- **beautifulSoup** - Used in parsing html source response (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-#### Steps to be followed to complete this task
+### Steps to be followed to complete this task
 1. Import library
 2. Study the library usage in its documentation
 3. Fill in the blank provided in the Script (Write your code between Code goes here and Code ends here comments)
@@ -32,13 +34,13 @@
 - Input(s): Text (.txt), Python script (.py) and Notebook (.ipynb)
 - Output: Github account with these three files pushed, reviewed and merged into the master branch of your repo
 
-#### You require the following to accomplish that.
-**python script** - Task 1 answer (.py)
-**Text file** - Task 1 text file (.txt)
-**Notebook** - Replicated answer in a notebook file (.ipynb)
-**Github repo** - Your repo that you have created already
+### You require the following to accomplish that.
+- **python script** - Task 1 answer (.py)
+- **Text file** - Task 1 text file (.txt)
+- **Notebook** - Replicated answer in a notebook file (.ipynb)
+- **Github repo** - Your repo that you have created already
 
-#### Steps to be followed to complete this task
+### Steps to be followed to complete this task
 1. Open a new jupyter notebook and name it task2.ipynb
 2. Replicate the answer you’ve got in Task1 into cells inside the newly created notebook
 3. Choose one of your classmate and add him/her as a collaborator in your Repo's settings
