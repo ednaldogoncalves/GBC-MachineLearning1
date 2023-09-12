@@ -158,45 +158,45 @@ Unbecoming
 
 --
 
-926
-
-The PyCoach
-
-in
-
-Artificial Corner
-
---
-
-568
-
-Maximilian Vogel
-
-in
-
-MLearning.ai
-
---
-
-104
+929
 
 Mirijam Missbichler
 
 --
 
-150
+152
+
+Zulie Rane
+
+in
+
+The Startup
+
+--
+
+914
 
 AL Anany
 
 --
 
-141
+147
 
-Nick Wignall
+Matt Chapman
+
+in
+
+Towards Data Science
 
 --
 
-323
+75
+
+Rayyan Shaikh
+
+--
+
+9
 
 Help
 
