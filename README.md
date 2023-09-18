@@ -55,9 +55,9 @@
 # Task 5 - Pandas Covid Data Analysis
 - This task tests your understanding of Pandas library for the purpose of analyzing and visualizing data.
 - Create a Python notebook for enabling data analysis on Covid data.
-- Input: Question Notebook, Covid data
-- Output: Notebook containing solutions within provided cells
-- Submission file: .ipynb file
+- **Input:** Question Notebook, Covid data
+- **Output:** Notebook containing solutions within provided cells
+- **Submission file:** .ipynb file (Lecture_02_Pandas_Covid_Analysis_Questions.ipynb)
 
 ### Steps to be followed to complete this task
 1. Launch Jupyter Notebook from your python environment
