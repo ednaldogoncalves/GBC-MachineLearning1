@@ -57,7 +57,7 @@
 - Create a Python notebook for enabling data analysis on Covid data.
 - **Input:** Question Notebook, Covid data
 - **Output:** Notebook containing solutions within provided cells
-- **Submission file:** .ipynb file ([Lecture_02_Pandas_Covid_Analysis_Questions.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Lecture_02_Pandas_Covid_Analysis_Questions.ipynb))
+- **Submission file:** .ipynb file ([Pandas_Covid_Analysis_Solutions.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Pandas_Covid_Analysis_Solutions.ipynb))
 
 ### Steps to be followed to complete this task
 1. Launch Jupyter Notebook from your python environment
