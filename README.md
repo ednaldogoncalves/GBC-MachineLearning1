@@ -51,3 +51,21 @@
 8. Wait for approval from your reviewer
 9. Merge the branch into the master branch
 10. Submit the repo link as the submission file
+
+# Task 5 - Pandas Covid Data Analysis
+- This task tests your understanding of Pandas library for the purpose of analyzing and visualizing data.
+- Create a Python notebook for enabling data analysis on Covid data.
+- Input: Question Notebook, Covid data
+- Output: Notebook containing solutions within provided cells
+- Submission file: .ipynb file
+
+### Steps to be followed to complete this task
+1. Launch Jupyter Notebook from your python environment
+2. Open the notebook in the browser
+3. Check the dataset provided
+4. Read its fields in the description
+5. Have the Pandas documentation ready by your side
+6. Fill in the cell with your solutions for all questions
+7. Hint: Certain questions require you to plot the data
+8. Read plotly documentation to plot a series and a dataframe
+9. Once completed and satisfied with your answers, Please save the notebook and submit the .ipynb file as the submission file.
