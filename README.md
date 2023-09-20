@@ -69,3 +69,13 @@
 7. Hint: Certain questions require you to plot the data
 8. Read plotly documentation to plot a series and a dataframe
 9. Once completed and satisfied with your answers, Please save the notebook and submit the .ipynb file as the submission file.
+
+# Task 6 - Predicting Real Estate House Prices
+- This task is used to test your understanding of scikit-library and its application of building a very simple Linear Regression model on the provided dataset.
+
+### Steps to be followed to complete this task
+1. Please see the attached notebook for further instructions.
+2. Dataset: Real_estate.csv
+3. Import the necessary libraries
+4. You are required to complete (fill in code) between the spaces provided.
+5. For submission, please submit the finished, saved notebook (.ipynb) file. ([Real_Estate_Price_Prediction.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Real_Estate_Price_Prediction.ipynb)
