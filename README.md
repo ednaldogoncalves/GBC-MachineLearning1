@@ -78,4 +78,4 @@
 2. Dataset: Real_estate.csv
 3. Import the necessary libraries
 4. You are required to complete (fill in code) between the spaces provided.
-5. For submission, please submit the finished, saved notebook (.ipynb) file. ([Real_Estate_Price_Prediction.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Real_Estate_Price_Prediction.ipynb)).
+5. For submission, please submit the finished, saved notebook (.ipynb) file ([Real_Estate_Price_Prediction.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Real_Estate_Price_Prediction.ipynb)).
