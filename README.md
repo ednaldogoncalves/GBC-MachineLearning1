@@ -79,3 +79,23 @@
 3. Import the necessary libraries
 4. You are required to complete (fill in code) between the spaces provided.
 5. For submission, please submit the finished, saved notebook (.ipynb) file ([Real_Estate_Price_Prediction.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Real_Estate_Price_Prediction.ipynb)).
+
+# Task 7 - AutoFeatureSelector Tool
+- This task is to test your understanding of various Feature Selection methods outlined in the lecture and the ability to apply this knowledge in a real-world dataset to select best features and also to build an automated feature selection tool as your toolkit¶
+
+### Use your knowledge of different feature selector methods to build an Automatic Feature Selection tool
+- **Pearson Correlation**
+- **Chi-Square**
+- **RFE**
+- **Embedded**
+- **Tree (Random Forest)**
+- **Tree (Light GBM)**
+
+### Steps to be followed to complete this task
+1. Individual Feature Selection methods
+2. Ensembling (Grouping) all the methods' results to obtain the best set of features
+3. Convert the notebook answer into a Python script
+4. Submit two files
+5. Notebook (.ipynb)
+6. Python (.py)
+7. The byproduct of this task is you would have created your very own FeatureSelector Tool that you can use in your data projects.
