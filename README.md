@@ -96,6 +96,6 @@
 2. Ensembling (Grouping) all the methods' results to obtain the best set of features
 3. Convert the notebook answer into a Python script
 4. Submit two files
-5. Notebook (.ipynb) ([AutoFeatureSelector.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/AutoFeatureSelector.ipynb)).
-6. Python (.py) ([AutoFeatureSelector.py](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/AutoFeatureSelector.py)).
+- Notebook (.ipynb) ([AutoFeatureSelector.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/AutoFeatureSelector.ipynb)).
+- Python (.py) ([AutoFeatureSelector.py](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/AutoFeatureSelector.py)).
 7. The byproduct of this task is you would have created your very own FeatureSelector Tool that you can use in your data projects.
