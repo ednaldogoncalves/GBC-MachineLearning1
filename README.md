@@ -139,7 +139,7 @@
 **Predict variable (desired target)**
 - 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
 
-### Steps to be followed to complete this task
+## Steps to be followed to complete this task
 1. The attached notebook gives you the detailed instructions.
 2. Submit two files Notebook (.ipynb)
 - ([Preprocessing_05_Simple_Imputer.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Preprocessing_05_Simple_Imputer.ipynb)).
