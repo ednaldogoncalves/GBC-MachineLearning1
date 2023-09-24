@@ -104,14 +104,15 @@
 - This task tests your ability to do data imputation with different strategies on different algorithms.
 
 ## SimpleImputer
-### This notebook outlines the usage of Simple Imputer (Univariate Imputation).
-### Simple Imputer substitutes missing values statistics (mean, median, ...)
+#### This notebook outlines the usage of Simple Imputer (Univariate Imputation).
+#### Simple Imputer substitutes missing values statistics (mean, median, ...)
 
 ## IterativeImputer
-### This notebook outlines the usage of Iterative Imputer (Multivariate Imputation).
-### Iterative Imputer substitutes missing values as a function of other features
+#### This notebook outlines the usage of Iterative Imputer (Multivariate Imputation).
+#### Iterative Imputer substitutes missing values as a function of other features
 
-#### Dataset: [https://github.com/subashgandyer/datasets/blob/main/heart_disease.csv]
+## Dataset:
+- [https://github.com/subashgandyer/datasets/blob/main/heart_disease.csv]
 
 **Demographic**
 - Sex: male or female(Nominal)
