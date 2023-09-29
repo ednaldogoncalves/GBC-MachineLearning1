@@ -149,6 +149,9 @@
 - This task tests your ability to build a Random Forest Machine Learning Algorithm and also tests your ability to build a Random Search Random Forest Machine Learning Algorithm.
 - Kindly see the attached notebook for instructions and the task requirements are outlined there in detail.
 
+## Dataset:
+- [https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?select=2015.csv]
+
 ### Task Requirements
 - Build a RandomForest for the above dataset (not one but many with different sets of parameters)
 - Explore RandomizedSearchCV in Scikit-learn documentation
@@ -173,3 +176,5 @@
 2. Why there is RCV when GSCV is already there.
 3. When to use what CV.
 4. Can we use it together if yes, in what order or in no order.
+- ([Best_Random_Forests.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Best_Random_Forests.ipynb)).
+- ([Task9_Answer.docx](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Task9_Answer.docx)).
