@@ -145,7 +145,7 @@
 - ([Preprocessing_05_Simple_Imputer.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Preprocessing_05_Simple_Imputer.ipynb)).
 - ([Preprocessing_06_Iterative_Imputer_Solution.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Preprocessing_06_Iterative_Imputer_Solution.ipynb)).
 
-# Task 9 - Best_Random_Forests
+# Task 9 - Best Random Forests
 - This task tests your ability to build a Random Forest Machine Learning Algorithm and also tests your ability to build a Random Search Random Forest Machine Learning Algorithm.
 - Kindly see the attached notebook for instructions and the task requirements are outlined there in detail.
 
