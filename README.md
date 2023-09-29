@@ -145,3 +145,31 @@
 - ([Preprocessing_05_Simple_Imputer.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Preprocessing_05_Simple_Imputer.ipynb)).
 - ([Preprocessing_06_Iterative_Imputer_Solution.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Preprocessing_06_Iterative_Imputer_Solution.ipynb)).
 
+# Task 9 - Best_Random_Forests
+- This task tests your ability to build a Random Forest Machine Learning Algorithm and also tests your ability to build a Random Search Random Forest Machine Learning Algorithm.
+- Kindly see the attached notebook for instructions and the task requirements are outlined there in detail.
+
+### Task Requirements
+- Build a RandomForest for the above dataset (not one but many with different sets of parameters)
+- Explore RandomizedSearchCV in Scikit-learn documentation
+- Create a parameter grid with these values
+    - n_estimators : between 10 and 200
+    - max_depth : choose between 3 and 20
+    - max_features : ['auto', 'sqrt', None] + list(np.arange(0.5, 1, 0.1))
+    - max_leaf_nodes : choose between 10 to 50
+    - min_samples_split : choose between 2, 5, or 10
+    - bootstrap : choose between True or False
+- Create the estimator (RandomForestClassifier)
+- Create the RandomizedSearchCV with estimator, parameter grid, scoring on roc auc, n_iter = 10, random_state=RSEED(50) for same reproducible results
+- Fit the model
+- Explore the best model parameters
+- Use the best model parameters to predict
+- Plot the best model ROC AUC Curve
+- Plot the Confusion Matrix
+- Write any insights or observations you found in the last
+
+### Inlcude a document answering the following questions...
+1. What is GridSearchCV, RandomizedSearchCV.
+2. Why there is RCV when GSCV is already there.
+3. When to use what CV.
+4. Can we use it together if yes, in what order or in no order.
