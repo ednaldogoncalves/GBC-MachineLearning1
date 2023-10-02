@@ -230,5 +230,5 @@ Algorithm   |     Accuracy   |   Hyperparameters
 Algorithm    |   Accuracy    |   Hyperparameters
 
 ### Submission
-- Submit Notebook containing all saved ran code with outputs
-- Document with the above two tables
+- Submit Notebook containing all saved ran code with outputs ([Benchmark_ML_Algorithms.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Benchmark_ML_Algorithms.ipynb)).
+- Document with the above two tables ([Task10_Benchmark.docx](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Task10_Benchmark.docx)).
