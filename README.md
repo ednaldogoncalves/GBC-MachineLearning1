@@ -178,3 +178,57 @@
 4. Can we use it together if yes, in what order or in no order.
 - ([Best_Random_Forests.ipynb](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Best_Random_Forests.ipynb)).
 - ([Task9_Answer.docx](https://github.com/ednaldogoncalves/GBC-MachineLearning1/blob/github_task/Task9_Answer.docx)).
+
+# Task 10 : Benchmark Top ML Algorithms
+- This task tests your ability to use different ML algorithms when solving a specific problem.
+
+### Dataset
+Predict Loan Eligibility for Dream Housing Finance company
+
+Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
+
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers.
+
+Train: https://raw.githubusercontent.com/subashgandyer/datasets/main/loan_train.csv
+
+Test: https://raw.githubusercontent.com/subashgandyer/datasets/main/loan_test.csv
+
+## Task Requirements
+### You can have the following Classification models built using different ML algorithms
+- Decision Tree
+- KNN
+- Logistic Regression
+- SVM
+- Random Forest
+- Any other algorithm of your choice
+
+### Use GridSearchCV for finding the best model with the best hyperparameters
+
+- ### Build models
+- ### Create Parameter Grid
+- ### Run GridSearchCV
+- ### Choose the best model with the best hyperparameter
+- ### Give the best accuracy
+- ### Also, benchmark the best accuracy that you could get for every classification algorithm asked above
+
+#### Your final output will be something like this:
+- Best algorithm accuracy
+- Best hyperparameter accuracy for every algorithm
+
+**Table 1 (Algorithm wise best model with best hyperparameter)**
+
+Algorithm   |     Accuracy   |   Hyperparameters
+- DT
+- KNN
+- LR
+- SVM
+- RF
+- anyother
+
+**Table 2 (Best overall)**
+
+Algorithm    |   Accuracy    |   Hyperparameters
+
+### Submission
+- Submit Notebook containing all saved ran code with outputs
+- Document with the above two tables
