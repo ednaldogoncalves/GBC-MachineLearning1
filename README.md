@@ -204,12 +204,12 @@ Test: https://raw.githubusercontent.com/subashgandyer/datasets/main/loan_test.cs
 
 ### Use GridSearchCV for finding the best model with the best hyperparameters
 
-- ### Build models
-- ### Create Parameter Grid
-- ### Run GridSearchCV
-- ### Choose the best model with the best hyperparameter
-- ### Give the best accuracy
-- ### Also, benchmark the best accuracy that you could get for every classification algorithm asked above
+- Build models
+- Create Parameter Grid
+- Run GridSearchCV
+- Choose the best model with the best hyperparameter
+- Give the best accuracy
+- Also, benchmark the best accuracy that you could get for every classification algorithm asked above
 
 #### Your final output will be something like this:
 - Best algorithm accuracy
